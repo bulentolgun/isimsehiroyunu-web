@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.sizin.paket.adiniz",
+    "package_name": "com.tamam.isim_sehir_hayvan",
     "sha256_cert_fingerprints": [
-      "SHA256_SIFRENIZ_BURAYA_GELECEK"
+      "37:DA:7A:41:E5:56:DB:21:4F:C0:3C:AA:F6:A1:52:BB:59:A8:3C:13:43:B2:E5:42:47:DC:00:5D:32:5B:04:6A"
     ]
   }
 }]
